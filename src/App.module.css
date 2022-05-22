@@ -1,0 +1,21 @@
+.title-parallax {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  padding: 5%;
+}
+
+.main-header {
+  font-size: 80px;
+  letter-spacing: 1px;
+  font-weight: 100;
+}
+
+.sub-header {
+  font-size: 36px;
+  letter-spacing: 1px;
+}
+
+.people-header {
+  font-size: 40px;
+}
